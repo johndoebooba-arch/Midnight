@@ -9,3 +9,4 @@ static const char* EPIC_DOMAINS[] = {
     "ak.epicgames.com",
     "epicgames.dev"
 };
+//
