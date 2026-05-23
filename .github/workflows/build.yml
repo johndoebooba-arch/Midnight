@@ -2,9 +2,9 @@ name: Build Midnight
 
 on:
   push:
-    branches: [iOS]
+    branches: [iOS, ios, main]
   pull_request:
-    branches: [iOS]
+    branches: [iOS, ios, main]
 
 jobs:
   build-midnight:
